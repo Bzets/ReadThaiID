@@ -1,0 +1,26 @@
+{
+    "kk": {
+        "password": "1234",
+        "age": 20,
+        "phone": "0849458561",
+        "bank_number": "1508573222",
+        "bank_name": "kdmlflm",
+        "balance": 100
+    },
+    "p": {
+        "password": "1111",
+        "age": 20,
+        "phone": "0930675274",
+        "bank_number": "4840521922",
+        "bank_name": "p",
+        "balance": 15,
+        "order_history": [
+            {
+                "product": "เบียร์สิงห์",
+                "price": 35,
+                "timestamp": "2025-08-22 19:11:46"
+            }
+        ]
+    },
+    "l": "1234"
+}
